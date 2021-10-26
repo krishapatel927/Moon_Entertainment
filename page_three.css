@@ -1,0 +1,35 @@
+body { 
+	background-color: #e6ccff ;
+}
+h1 {
+	color: black;
+	text-align: center;
+	font-family:" lucida Console", "courier New", monospace;
+	font-size: 55px;
+}
+#KP { 
+	width: 500px;
+	height: 700px;
+}
+header {
+	text-align: center;
+	font-family:" lucida Console", "courier New", monospace;
+	font-weight: bold;
+	font-size: 60px;
+}
+p {
+	text-align: center;
+	font-family:" lucida Console", "courier New", monospace;
+	font-size: 35px;
+}
+p1 {
+	text-align: center;
+	font-family:" lucida Console", "courier New", monospace;
+	font-weight: bold;
+	font-size: 50px;
+}
+p2 {
+	text-align: center;
+	font-family:" lucida Console", "courier New", monospace;
+	font-size: 35px;
+}
